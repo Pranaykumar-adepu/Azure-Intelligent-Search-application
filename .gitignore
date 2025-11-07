@@ -1,0 +1,6 @@
+config/.env
+.env
+data/raw/
+data/processed/
+!data/processed/combined_data.json
+
