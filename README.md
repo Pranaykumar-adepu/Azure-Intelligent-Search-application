@@ -89,7 +89,7 @@ Azure-Intelligent-Search-Final/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/Pranaykumar-adepu/Azure-Intelligent-Search-Final.git
+git clone https://github.com/Pranaykumar-adepu/Azure-Intelligent-Search-application
 cd Azure-Intelligent-Search-Final
  ```
 Step 2: Install Dependencies
@@ -148,7 +148,7 @@ Or use the Azure Portal Search Explorer for manual queries.
 
 
 ## 📦 Repository & Resources
-🔗 **GitHub Repository**:(https://github.com/Pranaykumar-adepu/Azure-Intelligent-Search.git)
+🔗 **GitHub Repository**:https://github.com/Pranaykumar-adepu/Azure-Intelligent-Search-application
 
 🎥 **Demo Video**: https://drive.google.com/file/d/17-t4cp2n_XHN9rNLxnb1eWO1mx6M5ZHj/view?usp=drive_link
 
